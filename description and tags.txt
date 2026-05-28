@@ -1,0 +1,21 @@
+==================================================
+ GITHUB REPOSITORY -- DESCRIPTION & TOPICS
+==================================================
+
+DESCRIPTION:
+--------------------------------------------------
+Expands communication features for chat, voice, and community server participation.
+
+==================================================
+
+TOPICS / TAGS:
+--------------------------------------------------
+discord
+nitro
+chat
+community
+voice
+membership
+social
+
+--------------------------------------------------
